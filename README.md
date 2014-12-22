@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An inquisition of the true church, and those that revolt from it being a sermon pronounced at the se
+
+1. TO THE RIGHT HONORABLE ARTHVR LORD CHICHESTER, Baron of BELFAST, Lord high Treaſurer of IRELAND.
+
 #####Body#####
-An inquisition of the true church, and those that revolt from it being a sermon pronounced at the se
+
+1. AN INQVISITION OF THE TRVE Church, and thoſe that revolt from it.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
